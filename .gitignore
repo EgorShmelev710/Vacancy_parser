@@ -1,0 +1,5 @@
+.idea
+.idea/
+database.ini
+__pycache__/
+poetry.lock
